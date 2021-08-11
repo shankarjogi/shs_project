@@ -1,0 +1,629 @@
+@media(min-width:1024px) and (max-width:1700px) {
+    .container {
+        max-width: 1360px;
+    }
+    .container-md {
+        max-width: 1170px;
+    }
+    .otp_text p,
+    .fx_tools_text p {
+        font-size: 12px;
+    }
+}
+
+@media (min-width: 576px) {
+    .modal-dialog {
+        max-width: 1082px;
+        margin: 1.75rem auto;
+    }
+}
+
+@media(min-width:320px) and (max-width:460px) {
+    .fx_whatsapp {
+        display: none;
+    }
+}
+
+@media (min-width: 1880px) {
+    .fx_grid_view .col-xl-4,
+    .fx_withdraw_funds .col-xl-3 {
+        width: 20%;
+    }
+}
+
+@media (max-width:767px) {
+    h1 {
+        font-size: 34px;
+    }
+    h2 {
+        font-size: 23px;
+    }
+    h3,
+    h4 {
+        font-size: 16px;
+    }
+    p,
+    h5,
+    h6 {
+        font-size: 13px;
+    }
+    span {
+        font-size: 10px;
+    }
+    .primary-btn {
+        padding: 15px 25px;
+        font-size: 17px;
+    }
+    .fx_topbar_text_inner {
+        justify-content: center !important;
+    }
+    .fx_topbar_text {
+        text-align: center;
+    }
+    .fx_chat_login ul li a {
+        font-size: 0.75rem;
+    }
+    .fx_chat_login img {
+        width: 12px;
+    }
+    .fx_slider_content {
+        padding: 20px 15px;
+    }
+    .fx_form_radio span {
+        font-size: 0.875rem;
+    }
+    input::placeholder,
+    .fx_form input,
+    .fx_number_dropdown,
+    .fx_footer_link_inner ul li a,
+    .fx_footer_last_text p,
+    textarea::placeholder {
+        font-size: 11px !important;
+    }
+    .fx_language img,
+    .fx_topbar_text img {
+        width: 15px;
+        height: 15px;
+    }
+    .otp_verification_form input {
+        width: 40px;
+        height: 40px;
+    }
+    .fx_tools_text h2 {
+        line-height: 40px;
+    }
+    .fx_tools_box {
+        margin-bottom: 75px;
+    }
+    .fx_tools_icon {
+        width: 90px;
+        height: 90px;
+        margin-top: -65px;
+        padding: 16px;
+    }
+    .fx_copy_text,
+    .fx_social_icon {
+        text-align: center !important;
+    }
+    .sidebar-wrapper {
+        display: none;
+        width: 260px;
+    }
+    .dashboard_wrapper,
+    .dashboard_page {
+        padding: 110px 15px 0 15px;
+    }
+    .fx_header_section {
+        padding-left: 0px !important;
+    }
+    .side_bar .fx_header_section,
+    .side_bar .dashboard_wrapper {
+        padding-left: 0px !important;
+    }
+    .Container-progessbar li:before {
+        width: 20px;
+        height: 20px;
+        font-size: 10px;
+    }
+    .Container-progessbar li {
+        font-size: 9px;
+    }
+    .Container-progessbar li:after {
+        top: 8px;
+    }
+    .fx_section {
+        padding-bottom: 20px !important;
+    }
+    .fx_qiuck_deposit,
+    .fx_recent_activities,
+    .fx_news {
+        margin-bottom: 20px;
+    }
+    .fx_account_table .nav-tabs .nav-link.active,
+    .fx_account_table .nav-tabs .nav-link {
+        font-size: 11px;
+        padding: 7px 10px;
+    }
+    .fx_recent_text p,
+    .fx_recent_name_word p,
+    .fx_news_text p,
+    .view_btn,
+    .fx_market_tab ul li a,
+    .fx_market_inner .table tr th span {
+        font-size: 12px;
+    }
+    .fx_market_inner .table tr td {
+        font-size: 14px;
+    }
+    .fx_account_table_inner .dropdown-menu {
+        transform: translate(-142px, 37px) !important;
+    }
+    .fx_add {
+        justify-content: flex-end !important;
+    }
+    .fx_copyright_text {
+        text-align: center;
+    }
+    .fx_account_table_inner .table tr th span {
+        font-size: 9px;
+    }
+    .fx_account_table_inner .table tr td {
+        font-size: 12px;
+    }
+    .table_badge {
+        font-size: 7px;
+        padding: 2px 4px;
+    }
+    .form-select {
+        font-size: 11px;
+    }
+    .upload_file_inner {
+        max-width: 234px;
+    }
+    .fx_list_table table {
+        display: table-row;
+    }
+    .fx_list_table .fx_btn {
+        text-align: center;
+    }
+    .fx_list_table .fx_btn a {
+        font-size: 10px;
+        display: block;
+        margin-bottom: 5px;
+    }
+    .fx_list_box p,
+    .fx_list_table .fx_heading span {
+        font-size: 12px;
+    }
+    .fx_list_table .fx_btn a {
+        font-size: 10px;
+    }
+    .fx_sort {
+        display: block !important;
+    }
+    #btnContainer {
+        display: inline-block !important;
+    }
+    .fx_sort .form-select {
+        padding-right: 50px;
+    }
+    .fx_sort_view {
+        justify-content: space-between;
+    }
+    .fx_wallet_name h6 {
+        font-size: 11px;
+    }
+    .fx_wallet_logo {
+        width: 50px;
+        height: 50px;
+        margin-top: -37px;
+    }
+    .fx_wallet_bg {
+        margin-bottom: 55px;
+    }
+    .fx_recent_operation .fx_list_table .col-2 {
+        width: auto;
+    }
+    .fx_account_btn .fx_btn a h6 {
+        font-size: 9px;
+    }
+    .fx_try_demo h6 {
+        font-size: 11px;
+    }
+    .account_btn,
+    .fx_tab_money {
+        width: 100% !important;
+    }
+    .payments_model .modal-content {
+        height: auto;
+    }
+    .fx_deposit_inner {
+        padding-top: 50px !important;
+    }
+    .fx_deposit_method .fx_btn .btn h6 {
+        font-size: 10px;
+    }
+    .fx_deposit_tab .nav-tabs .nav-link {
+        padding: 9px !important;
+    }
+    .fx_tab_money ul li a h6 {
+        font-size: 9px;
+    }
+    .download_btn a {
+        font-size: 13px;
+        padding: 15px;
+    }
+    .fx_user_table {
+        display: table !important;
+    }
+    .fx_setting_menu {
+        transform: translate(-10px, 64px) !important;
+    }
+    .setting-icon-header .dropdown-menu::before {
+        left: 12px;
+        right: 100%;
+    }
+    .fx_horizontal_menu .dropdown-menu {
+        margin-top: 0px;
+    }
+    .fx_horizontal_menu .horizontal_menu_inner {
+        position: absolute;
+        width: 100%;
+        left: 0;
+        right: 0;
+        z-index: 999999;
+        background-color: #fff;
+        padding: 10px 0 25px 0px;
+        top: 70px;
+    }
+}
+
+@media(min-width:768px) and (max-width:991px) {
+    .fx_logo_img {
+        justify-content: flex-end !important;
+    }
+    .fx_header_section {
+        padding-left: 16px !important;
+    }
+    .sidebar-wrapper {
+        display: none;
+    }
+    .dashboard_wrapper,
+    .dashboard_page {
+        padding: 110px 15px 0 15px;
+    }
+    .fx_list_box p,
+    .fx_list_table .fx_heading span {
+        font-size: 11px;
+    }
+    .fx_list_table .fx_btn a {
+        font-size: 10px;
+        display: block;
+        margin-bottom: 5px;
+    }
+    .fx_account_text h6 {
+        font-size: 11px;
+    }
+    .fx_account_feature_text h6 {
+        font-size: 13px;
+    }
+    .account_btn {
+        width: 100% !important;
+    }
+    .fx_horizontal_menu .horizontal_menu_inner {
+        position: absolute;
+        width: 100%;
+        left: 0;
+        right: 0;
+        z-index: 999999;
+        background-color: #fff;
+        padding: 10px 0 25px 0px;
+        top: 70px;
+    }
+    .fx_horizontal_menu .fx_right_section {
+        padding: 20px;
+    }
+}
+
+@media(min-width:768px) and (max-width:1024px) {
+    h1 {
+        font-size: 35px;
+    }
+    h3 {
+        font-size: 17px;
+    }
+    h6 {
+        font-size: 13px;
+    }
+    .fx_slider_content {
+        padding: 62px 15px;
+    }
+    .otp_text p,
+    .fx_tools_text p {
+        font-size: 13px;
+    }
+    .fx_tools_icon {
+        width: 90px;
+        height: 90px;
+        margin-top: -70px;
+        padding: 22px;
+    }
+    .fx_tools_content {
+        height: 136px;
+    }
+    .fx_qiuck_deposit,
+    .fx_recent_activities,
+    .fx_news {
+        margin-bottom: 20px;
+    }
+    .Container-progessbar li {
+        font-size: 11px;
+    }
+    .fx_tab_money ul li a h6 {
+        font-size: 12px;
+    }
+    .fx_tab_money ul li a {
+        padding: 1rem .9rem !important;
+    }
+    .fx_list_table .fx_btn {
+        text-align: center;
+    }
+    .fx_accordian_form .fx_language img {
+        display: none;
+    }
+    .fx_contact_us .dropdown-menu {
+        transform: translate(-47px, 63px) !important;
+    }
+}
+
+@media(min-width:992px) and (max-width:1200px) {
+    .fx_qiuck_inner .col-md-6 {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .dashboard_wrapper {
+        padding: 110px 15px 0 277px;
+    }
+    .side_bar .fx_header_section,
+    .side_bar .dashboard_wrapper,
+    .side_bar .dashboard_page {
+        padding-left: 65px !important;
+    }
+    .side_bar .sidebar-wrapper {
+        width: 5%;
+    }
+    .fx_account_table .nav-tabs .nav-link.active,
+    .fx_account_table .nav-tabs .nav-link {
+        font-size: 12px;
+        padding: 7px 10px;
+    }
+    .fx_qiuck_deposit,
+    .fx_recent_activities,
+    .fx_news {
+        margin-bottom: 20px;
+    }
+    .fx_list_table .fx_btn {
+        text-align: center;
+    }
+    .fx_list_box p,
+    .fx_list_table .fx_heading span {
+        font-size: 11px;
+    }
+    .fx_list_table .fx_btn a {
+        font-size: 10px;
+        display: block;
+        margin-bottom: 5px;
+    }
+    .account_btn {
+        width: 100% !important;
+    }
+    .fx_tab_money ul li a {
+        padding: 1rem .8rem !important;
+    }
+    .fx_horizontal_menu .fx_profile {
+        width: 27px;
+    }
+    .fx_horizontal_menu .setting-icon i {
+        font-size: 15px;
+    }
+    .fx_horizontal_menu .navbar-expand-lg .navbar-nav .nav-link {
+        padding-right: .5rem !important;
+        padding-left: .5rem !important;
+    }
+    .fx_logo img {
+        width: 80px;
+    }
+    .fx_horizontal_menu .nav-link,
+    .fx_horizontal_menu .dropdown-item {
+        font-size: 10px;
+    }
+    .fx_horizontal_menu .setting-icon-header {
+        margin: 0 !important;
+    }
+    .fx_horizontal_menu .fr_dropdown {
+        font-size: 11px;
+    }
+}
+
+@media(min-width:1200px) and (max-width:1400px) {
+    .fx_horizontal_menu .fx_profile {
+        width: 27px;
+    }
+    .fx_horizontal_menu .setting-icon i {
+        font-size: 15px;
+    }
+    .fx_logo img {
+        width: 80px;
+    }
+    .fx_horizontal_menu .nav-link,
+    .fx_horizontal_menu .dropdown-item,
+    .fx_horizontal_menu .fr_dropdown {
+        font-size: 13px;
+    }
+}
+
+@media(min-width:1200px) and (max-width:1660px) {
+    .fx_qiuck_inner .col-md-6 {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .dashboard_wrapper {
+        padding: 110px 30px 0 300px;
+    }
+    .fx_list_table .col-1,
+    .fx_list_table .col-3 {
+        width: auto;
+    }
+    .fx_list_table .fx_btn a {
+        font-size: 10px;
+        display: block;
+        margin-bottom: 5px;
+    }
+    .fx_grid_view .fx_grid_trade span {
+        font-size: 12px;
+    }
+    .fx_list_table .fx_btn {
+        text-align: center;
+    }
+    .fx_horizontal_menu .navbar-expand-lg .navbar-nav .nav-link {
+        padding-right: .8rem !important;
+        padding-left: .8rem !important;
+    }
+    .horizontal_menu .dashboard_wrapper,
+    .horizontal_menu .dashboard_page {
+        max-width: 1280px;
+    }
+}
+
+@media(min-width:1024px) and (max-width:1200px) {
+    h1 {
+        font-size: 35px;
+    }
+    .fx_slider_content {
+        padding: 62px 15px;
+    }
+    .fx_wallet_name h6 {
+        font-size: 15px;
+    }
+    .form-select,
+    .form-control,
+    input::placeholder {
+        font-size: 12px;
+    }
+    .fx_setting_menu {
+        transform: translate(-88px, 64px) !important;
+    }
+    .horizontal_menu .dashboard_wrapper,
+    .horizontal_menu .dashboard_page {
+        max-width: 960px;
+    }
+}
+
+@media(min-width:1024px) and (max-width:1300px) {
+    h3 {
+        font-size: 17px;
+    }
+    .fx_tools_content {
+        height: 130px;
+    }
+    .fx_recent_name_word p,
+    .fx_news_text p,
+    .view_btn,
+    .fx_market_tab ul li a,
+    .fx_market_inner .table tr th span {
+        font-size: 11px;
+    }
+}
+
+@media(min-width:1024px) and (max-width:1440px) {
+    html {
+        font-size: 80%;
+    }
+    h3,
+    h4 {
+        font-size: 20px;
+    }
+    h5 {
+        font-size: 15px;
+    }
+    h6 {
+        font-size: 14px;
+    }
+    .fx_account_table_inner .table span {
+        font-size: 11px;
+    }
+    .primary-btn {
+        font-size: 16px;
+    }
+    .fx_setting_menu {
+        transform: translate(-88px, 64px) !important;
+    }
+}
+
+@media(min-width:320px) and (max-width:1800px) {
+    .fx_doc_btn a {
+        display: block;
+        margin-bottom: 10px;
+        margin-right: 0 !important;
+    }
+}
+
+        /* Money in*/
+
+/* @media(min-width:320px) and (max-width:500px) {
+    .add__container {
+        display: block;
+        margin-bottom: 10px;
+        margin-right: 0 !important;
+        width: 300px;
+    }
+    .exp__cvv{
+        flex-direction: column;
+    }
+    .card__options {
+      
+        width: 300px;
+        padding: 0px;
+        margin-left: -45px;
+        
+    }
+    .card__options img{  
+        width: 30px;
+        height: 30px;
+    }
+    .add__btn {
+        flex-direction: column;
+       
+    }
+    .cancel {
+        text-align: center;
+        margin-bottom: 8px;
+    }
+}
+
+@media(min-width:200px) and (max-width:320px) {
+    .add__container { 
+        width: 250px;
+        
+    }
+    .exp__cvv{
+        flex-direction: column;
+    }
+    .cancel {
+        text-align: center;
+        margin-bottom: 8px;
+    }
+    .add__btn {
+        flex-direction: column;   
+    }
+    
+    .card__options {   
+        width: 200px;
+        padding: 0px;
+        margin-left: -45px;    
+    }
+    .card__options img{  
+        width: 30px;
+        height: 30px;
+    }
+} */

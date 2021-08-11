@@ -1,0 +1,112 @@
+.primary-bg-color {
+    background-color: #FF4D09;
+}
+
+.secondary-bg-color {
+    background-color: #454868;
+}
+
+.darkgrey-bg-color {
+    background-color: #777777;
+}
+
+.grey-bg-color {
+    background-color: #BDBDBD;
+}
+
+.blue-bg-color {
+    background-color: #4CB1FF;
+}
+
+.darklight-bg-color {
+    background-color: #FAFAFA;
+}
+
+.white-bg-color {
+    background-color: #fff;
+}
+
+.dashaboard-bg {
+    background-color: #e9ecef;
+}
+
+.opacity-orange-bg {
+    background-color: #ff4d0930;
+    border-radius: 30px;
+}
+
+.orange-color {
+    color: #FF4D09;
+}
+
+.white-color {
+    color: #fff;
+}
+
+.black-color {
+    color: #000;
+}
+
+.grey-color {
+    color: #777;
+}
+
+.secondary-color {
+    color: #575967;
+}
+
+.blue-color {
+    color: #4cb1ff;
+}
+
+.bluedark-color {
+    color: #454868;
+}
+
+.border-radius {
+    border-radius: 10px;
+}
+
+.border-radius2 {
+    border-radius: 5px !important;
+}
+
+.border-left-radius {
+    border-top-left-radius: 10px !important;
+}
+
+.border-right-radius {
+    border-top-right-radius: 10px !important;
+}
+
+.border-bottom {
+    border-bottom: 1px solid #585a77 !important;
+}
+
+.orange-border {
+    border: 1px solid #FF4D09;
+}
+
+.container {
+    max-width: 1620px;
+}
+
+.box-shadow {
+    box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.1);
+}
+
+.container-md {
+    max-width: 1290px;
+    margin: 0 auto;
+}
+
+.fx_section {
+    padding-bottom: 80px;
+}
+
+.primary-btn {
+    padding: 15px 50px;
+    display: inline-block;
+    border-radius: 5px;
+    font-size: 18px;
+}

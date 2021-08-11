@@ -1,0 +1,9 @@
+#my_drop {
+    width: 200px;
+    background-color:lightgray;
+    font-size: 14px;
+}
+#drop_head {
+    width: 200px;
+    /* padding: 10px; */
+}
